@@ -9,9 +9,6 @@
 - 💼 &nbsp; Previously worked as an Application Developer at the SAP Consulting firm CONTAX Inc.
 - 🎮 &nbsp; Hobbies include Gaming, Cars, Investing and Bass.
 
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/Kchewz/Kchewz/master/assets/Night-Programming.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)&nbsp;
