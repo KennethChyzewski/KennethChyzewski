@@ -1,4 +1,4 @@
-### Hello Hello! You must be Viewer # ![](https://komarev.com/ghpvc/?username=kchewz&color=brightgreen&style=flat&label) Please to meet you! 👋
+### Hello Hello! You must be Viewer # ![](https://komarev.com/ghpvc/?username=kchewz&color=brightgreen&style=flat&label), it's a pleasure to meet you! 👋
 ### I am Kenneth Chyzewski aka Kchewz 🙋‍♂️
 
 ### 👨‍💻 &nbsp;About Me
@@ -16,22 +16,24 @@
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=Javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)&nbsp;\
-![ABAP](https://img.shields.io/badge/-ABAP-333333?style=flat&logo=SAP)&nbsp;
-![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)&nbsp;
+![ABAP](https://img.shields.io/badge/-ABAP-333333?style=flat&logo=SAP)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=Javascript)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=777BB4)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=4479A1)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman&logoColor=FF6C37)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse-ide&logoColor=2C2255)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse-ide&logoColor=2C2255)&nbsp;
 ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode&logoColor=1575F9)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda&logoColor=42B029)&nbsp;
 
 ### 🤝🏻 Lets get in touch!
 <p align="center">
