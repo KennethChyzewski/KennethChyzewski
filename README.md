@@ -5,8 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing softwares.
 - 🎓 &nbsp; HBSc Computer Science Specialist at the University of Toronto.
-- ✍️ &nbsp; Currently a Teaching Assistant at the University of Toronto.
-- 💼 &nbsp; Previously worked as an Application Developer at the SAP Consulting firm CONTAX Inc.
+- 💼 &nbsp; Currently a Teaching Assistant at the University of Toronto.
 - 🎮 &nbsp; Hobbies include Gaming, Cars, Investing and Bass.
 
 ### 🛠 &nbsp;Tech Stack
@@ -45,5 +44,4 @@
 <a href="https://switcher.gg/user/Kchewz_"><img src="https://img.shields.io/badge/-Kchewz-E60012?style=flat-square&logo=Nintendo-Switch&logoColor=white"/></a>
 </p>
 
-👈 &nbsp; Feel free to email me!\
-<br />
+👈 &nbsp; Feel free to email me!
