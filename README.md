@@ -1,5 +1,5 @@
 ### Hello Hello! You must be Viewer # ![](https://komarev.com/ghpvc/?username=kchewz&color=brightgreen&style=flat&label), it's a pleasure to meet you! 👋
-### I am Kenneth Chyzewski aka Kchewz 🙋‍♂️
+### I am Kenneth Chyzewski 🙋‍♂️
 
 ### 👨‍💻 &nbsp;About Me
 
@@ -35,11 +35,6 @@
 <p align="center">
 <a href="https://www.kennethchyzewski.com"><img src="https://img.shields.io/badge/-kennethchyzewski.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kennethchyzewski"><img src="https://img.shields.io/badge/-Kenneth%20Chyzewski-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<!-- <a href="https://www.youtube.com/channel/UCtpQVrPSYgF1MRvy8cHl27g"><img src="https://img.shields.io/badge/-Kchewz-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a> -->
-<!-- <a href="https://www.twitch.tv/kchewz"><img src="https://img.shields.io/badge/-Kchewz-9146FF?style=flat-square&logo=Twitch&logoColor=white"/></a> -->
-<a href="https://instagram.com/kchewz"><img src="https://img.shields.io/badge/-@Kchewz-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/kchewz_"><img src="https://img.shields.io/badge/-@Kchewz-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-<!-- <a href="https://soundcloud.com/kchewz"><img src="https://img.shields.io/badge/-Kchewz-FF3300?style=flat-square&logo=SoundCloud&logoColor=white"/></a> -->
 <a href="https://psnprofiles.com/Kchewz"><img src="https://img.shields.io/badge/-Kchewz-003791?style=flat-square&logo=Playstation&logoColor=white"/></a>
 <a href="https://switcher.gg/user/Kchewz_"><img src="https://img.shields.io/badge/-Kchewz-E60012?style=flat-square&logo=Nintendo-Switch&logoColor=white"/></a>
 </p>
