@@ -33,10 +33,9 @@
 
 ### 🤝🏻 Lets get in touch!
 <p align="center">
+<a href="mailto:KChyzewski@gmail.com"><img src="https://img.shields.io/badge/-KChyzewski@gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.kennethchyzewski.com"><img src="https://img.shields.io/badge/-kennethchyzewski.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kennethchyzewski"><img src="https://img.shields.io/badge/-Kenneth%20Chyzewski-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://psnprofiles.com/Kchewz"><img src="https://img.shields.io/badge/-Kchewz-003791?style=flat-square&logo=Playstation&logoColor=white"/></a>
 <a href="https://switcher.gg/user/Kchewz_"><img src="https://img.shields.io/badge/-Kchewz-E60012?style=flat-square&logo=Nintendo-Switch&logoColor=white"/></a>
 </p>
-
-👈 &nbsp; Feel free to email me!
