@@ -4,8 +4,8 @@
 ### 👨‍💻 &nbsp;About Me
 
 - 🔭 &nbsp; Exploring new technologies and developing cool things. Currently learning Swift for a gaming/ utility app I am building.
-- 🎓 &nbsp; HBSc Computer Science Specialist and Mathematics Minor Gradute with Distinction from the University of Toronto.
-- 💼 &nbsp; Currently a Teaching Assistant. Previously worked at a world's top 50 academic institution, an SAP consulting firm and a multinational financial services company.
+- 🎓 &nbsp; HBSc Computer Science Specialist Graduate.
+- 💼 &nbsp; Currently a Teaching Assistant. Previously worked at an academic institution, an SAP consulting firm and a multinational financial services company.
 - 🎮 &nbsp; Hobbies include Gaming, Investing and Cars.
 
 ### 🛠 &nbsp;Tech Stack
