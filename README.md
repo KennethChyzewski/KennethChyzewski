@@ -1,12 +1,16 @@
 ### Hello Hello! You must be ![](https://komarev.com/ghpvc/?username=KennethChyzewski&color=blue&style=flat&label=Visitor%20%23) it's a pleasure to meet you! 👋
-### I am Kenneth Chyzewski 🙋‍♂️
 
+<p align="center">
+  <img src="pikachu.gif" width=30% />
+</p>
+
+### I am Kenneth Chyzewski 🙋‍♂️
 ### 👨‍💻 &nbsp;About Me
 
-- 🔭 &nbsp; Exploring new technologies and developing cool things. Currently learning Swift for a gaming/ utility app I am building.
-- 🎓 &nbsp; HBSc Computer Science Specialist Graduate.
-- 💼 &nbsp; Currently a Teaching Assistant. Previously worked at an academic institution, an SAP consulting firm and a multinational financial services company.
-- 🎮 &nbsp; Hobbies include Gaming, Investing and Cars.
+- 🔭 &nbsp; Exploring new technologies and developing cool things. Currently learning Swift and Computer Vision for a gaming utility app.
+- 🎓 &nbsp; HBSc Computer Science Specialist Graduate from UofT.
+- 💼 &nbsp; Software Development Engineer at MANGA. Previously worked at UofT, CONTAX and RBC.
+- 👾 &nbsp; Hobbies include Coding, Gaming, Content Creation, Investing and Cars.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -34,6 +38,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?&logo=heroku&logoColor=79589f)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=4479A1)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase&logoColor=FFA611)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman&logoColor=FF6C37)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse-ide)&nbsp;
@@ -43,8 +48,8 @@
 ### 🤝🏻 Lets get in touch!
 <p align="center">
 <a href="mailto:KChyzewski@gmail.com"><img src="https://img.shields.io/badge/-KChyzewski@gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://kennethchyzewski.github.io"><img src="https://img.shields.io/badge/-kennethchyzewski.github.io-3423A6?style=flat-square&logo=Microsoft-Edge&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kennethchyzewski"><img src="https://img.shields.io/badge/-Kenneth%20Chyzewski-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://psnprofiles.com/Kchewz"><img src="https://img.shields.io/badge/-Kchewz-003791?style=flat-square&logo=Playstation&logoColor=white"/></a>
 <a href="https://switcher.gg/user/Kchewz"><img src="https://img.shields.io/badge/-Kchewz-E60012?style=flat-square&logo=Nintendo-Switch&logoColor=white"/></a>
 </p>
+
